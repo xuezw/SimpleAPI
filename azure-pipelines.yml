@@ -37,5 +37,5 @@ steps:
       **\*UnitTest*.dll
       !**\*TestAdapter.dll
       !**\obj\**
-    searchFolder: '$(System.DeaultWorkingDirectoriey)'
+
     
